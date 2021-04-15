@@ -20,6 +20,7 @@ public class Main {
 		
 	
 		bl.backtracking(0);
+		bl.printSolution();
 		
 	}
 	
